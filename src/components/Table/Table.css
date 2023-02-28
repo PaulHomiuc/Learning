@@ -1,0 +1,25 @@
+.unic table {
+   
+    width: 90%;
+}
+.unic  table,tr,td,th{
+    
+    margin-top: 3rem;
+    background-color: rgba(71, 85, 95, 0.392);
+
+    border: #000000;
+    border-radius: 2px;
+
+}
+.unic td,th {
+    color: rgb(0, 255, 136);
+    font-size: large;
+    text-shadow: 2px 2px 4px #000000
+  
+}
+.unic{
+    display: flex;
+    justify-content: center;
+    
+
+}

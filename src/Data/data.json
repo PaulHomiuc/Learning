@@ -1,0 +1,106 @@
+[
+    {
+      "first_name": "Jessica",
+      "last_name": "Smith",
+      "age": 23,
+      "university": "University of California, Los Angeles",
+      "city": "Los Angeles",
+      "grade": 8.8
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Nguyen",
+      "age": 21,
+      "university": "University of Washington",
+      "city": "Seattle",
+      "grade": 8.9
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Garcia",
+      "age": 22,
+      "university": "University of Texas at Austin",
+      "city": "Austin",
+      "grade": 8.9
+    },
+    {
+      "first_name": "David",
+      "last_name": "Kim",
+      "age": 29,
+      "university": "University of California, Berkeley",
+      "city": "Berkeley",
+      "grade": 8.7
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Lee",
+      "age": 20,
+      "university": "Massachusetts Institute of Technology",
+      "city": "Cambridge",
+      "grade": 8.6
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Gonzalez",
+      "age": 25,
+      "university": "Stanford University",
+      "city": "Stanford",
+      "grade": 9.0
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Taylor",
+      "age": 19,
+      "university": "Harvard University",
+      "city": "Cambridge",
+      "grade": 8.9
+    },
+    {
+      "first_name": "William",
+      "last_name": "Brown",
+      "age": 21,
+      "university": "Columbia University",
+      "city": "New York",
+      "grade": 8.5
+    },
+    {
+      "first_name": "Samantha",
+      "last_name": "Wang",
+      "age": 22,
+      "university": "Princeton University",
+      "city": "Princeton",
+      "grade": 8.8
+    },
+    {
+      "first_name": "Benjamin",
+      "last_name": "Martinez",
+      "age": 28,
+      "university": "Yale University",
+      "city": "New Haven",
+      "grade": 8.7
+    },
+    {
+      "first_name": "Ava",
+      "last_name": "Hernandez",
+      "age": 20,
+      "university": "Duke University",
+      "city": "Durham",
+      "grade": 8.6
+    },
+    {
+      "first_name": "Lucas",
+      "last_name": "Garcia",
+      "age": 29,
+      "university": "California Institute of Technology",
+      "city": "Pasadena",
+      "grade": 9.0
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Allen",
+      "age": 21,
+      "university": "University of Michigan",
+      "city": "Ann Arbor",
+      "grade": 8.5
+    }
+]
