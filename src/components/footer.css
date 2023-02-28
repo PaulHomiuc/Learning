@@ -5,12 +5,13 @@
   justify-content: center;
   align-items: center;
   width: 100%;
+  flex-direction: column;
 
 
 
 }
 
-.footer p {
+.footer p ,h3{
   color: rgb(6, 168, 33);
   text-shadow: 2px 2px 4px #000000;
 }

@@ -13,7 +13,8 @@ function Footer() {
   return (
     <footer className="footer">
       <p>Current Date and Time: 
-       <h3> {dateTime.toLocaleString()}</h3> </p>
+        </p>
+        <h3> {dateTime.toLocaleString()}</h3>
     </footer>
   );
 }

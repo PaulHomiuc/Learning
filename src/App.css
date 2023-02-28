@@ -9,6 +9,9 @@
   flex:1;
   
 }
+.App{
+  margin-top: 2%;
+}
 :root{
   color-scheme: light dark;
 }

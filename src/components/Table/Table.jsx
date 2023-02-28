@@ -6,12 +6,14 @@ return(
     <div  className="unic">
     <table>
 <thead>
+    <tr>
 <th>Prenume</th>
 <th>Nume</th>
 <th>Varsta</th>
 <th>Universitate</th>
 <th>Oras</th>
 <th>Media Notelor</th>
+</tr>
 </thead>
 <tbody>
 {data.map((row,index) => (
